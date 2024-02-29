@@ -1,0 +1,52 @@
+{
+  "resturant": [
+    {
+      "id": "1",
+      "name": "Pizza Hut",
+      "rating": "4.5",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Pizza Hut",
+      "rating": "4.5",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Pizza Hut",
+      "rating": "4.5",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "id": "622e",
+      "name": "ali",
+      "rating": "4",
+      "email": "ahmed1270syed@gmail.com"
+    },
+    {
+      "id": "88a9",
+      "name": "ali",
+      "rating": "4",
+      "email": "ahmed1270syed@gmail.com"
+    },
+    {
+      "id": "55cc",
+      "name": "Ali",
+      "rating": "3",
+      "email": "ahmed1270syed@gmail.com"
+    },
+    {
+      "id": "f57e",
+      "name": "Ali",
+      "rating": "4",
+      "email": "ahmed"
+    },
+    {
+      "id": "dc7e",
+      "name": "Ali",
+      "rating": "4",
+      "email": "ahmed"
+    }
+  ]
+}
